@@ -1,0 +1,1 @@
+package com.lego.admin.formydaddy.diimport com.lego.admin.formydaddy.logic.Gameimport dagger.Moduleimport dagger.Providesimport javax.inject.Singleton@Moduleclass DominoModule {    @Provides    @Singleton    fun provideNoteDao() : Game = Game()}

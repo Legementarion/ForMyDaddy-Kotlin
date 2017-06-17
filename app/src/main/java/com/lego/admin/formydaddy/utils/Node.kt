@@ -1,1 +1,0 @@
-package com.lego.admin.formydaddy.utilsdata class Node(val mother: Node, val father: Node) {    var id: String    get() = id    set(value) {id = value}    var live: Boolean = false    var visible: Boolean = false    var value: Int = 0    var type: Type? = null}

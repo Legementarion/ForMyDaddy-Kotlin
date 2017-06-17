@@ -1,0 +1,1 @@
+package com.lego.admin.formydaddy.diimport com.lego.admin.formydaddy.presenter.MainPresenterimport dagger.Componentimport javax.inject.Singleton@Singleton@Component(modules = arrayOf(DominoModule::class))interface AppComponent {    fun inject(mainPresenter : MainPresenter)}
