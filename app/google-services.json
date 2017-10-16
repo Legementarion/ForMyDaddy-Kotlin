@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "846122578743",
+    "firebase_url": "https://domino-pyramid.firebaseio.com",
+    "project_id": "domino-pyramid",
+    "storage_bucket": "domino-pyramid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846122578743:android:ae9a963c5ee0a997",
+        "android_client_info": {
+          "package_name": "com.lego.admin.formydaddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846122578743-fskdjvkm478pgltrve7smbk0l0ab4gcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr3NIPAV8Awp8x6Vl3a5m2QtDe4n845v0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
