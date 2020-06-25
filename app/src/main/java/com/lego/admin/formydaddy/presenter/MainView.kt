@@ -1,1 +1,0 @@
-package com.lego.admin.formydaddy.presenterimport com.arellomobile.mvp.MvpViewinterface MainView : MvpView {    fun showPick(pick: Int)    fun cancelPick()}
